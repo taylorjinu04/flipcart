@@ -26,15 +26,22 @@
 
 
 .three {
-    width: 55%;
     position: relative;
-    left: 425px;
-    /* display: contents; */
+    left: 563px;
+    margin-left: 70px;
 }
 
 .cart-img{
     height: 150px;
+    width: 140px;
+    object-fit: contain;
 }
+
+.data {
+    text-align: center;
+}
+
+
 
 
 
