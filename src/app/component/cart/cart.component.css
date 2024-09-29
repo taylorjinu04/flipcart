@@ -1,0 +1,40 @@
+.card {
+    height: 30rem;
+    width: 25rem;
+    left: 34%;
+    margin-top: 40px;
+    background-color: lightblue;
+}
+
+.common {
+    text-align: center;
+    font-style: inherit;
+    padding-top: 2px;
+}
+
+.btn {
+    margin-left: 135px;
+    margin-top: -10px;
+}
+
+.card-text {
+    font-size: 18px;
+    font-style: inherit;
+    font-weight: 500;
+    margin-top: -3px;
+}
+
+
+.three {
+    width: 55%;
+    position: relative;
+    left: 425px;
+    /* display: contents; */
+}
+
+.cart-img{
+    height: 150px;
+}
+
+
+
